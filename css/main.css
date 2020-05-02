@@ -1,0 +1,41 @@
+html,body,h1,h2,p,ul,ol,li,
+a:{
+padding:0;
+border:0;
+margin:0;
+font-size: 100%;
+font: inherit;
+}
+
+header{
+	height: 125px
+}
+
+.mySlides{
+	display:none;
+}
+
+.myCards{
+	margin: 0 auto;
+}
+
+#banner{
+	background-image: linear-gradient(powderblue, gainsboro);
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#titulo{
+	font-family: 'Lobster', cursive;
+}
+
+#mainbody{
+	width: 80%;
+	margin:0 auto;
+}
+
+#clearlist{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
